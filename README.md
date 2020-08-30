@@ -16,7 +16,7 @@ Posteriormente, após encontros com outras alunas dos cursos de computação e e
 
 Por fim, o **PyLadies São Carlos** recebeu permissão do PyLadies Brasil para iniciar suas atividades, sendo o primeiro grupo do estado de São Paulo e da região Sudeste. 😁
 
-Deste então, o PyLadies São Carlos promove diversas atividades com o objetivo de aproximar as mulheres ao universo da computação, como minicursos, palestras, projetos ([Pyladies nas Escolas](https://g1.globo.com/sp/sao-carlos-regiao/noticia/2019/08/22/projeto-leva-universo-da-programacao-para-meninas-do-ensino-medio-em-sao-carlos.ghtml), [Diatech](https://www.facebook.com/PyLadiesSaoCarlos/photos/a.1926210530813893/1926213804146899?type=3&sfns=mo), entre outros), encontros ([BarDelas](https://www.facebook.com/PyLadiesSaoCarlos/posts/2409227145845560)).
+Desde então, o PyLadies São Carlos promove diversas atividades com o objetivo de aproximar as mulheres ao universo da computação, como minicursos, palestras, projetos ([Pyladies nas Escolas](https://g1.globo.com/sp/sao-carlos-regiao/noticia/2019/08/22/projeto-leva-universo-da-programacao-para-meninas-do-ensino-medio-em-sao-carlos.ghtml), [Diatech](https://www.facebook.com/PyLadiesSaoCarlos/photos/a.1926210530813893/1926213804146899?type=3&sfns=mo), entre outros), encontros ([BarDelas](https://www.facebook.com/PyLadiesSaoCarlos/posts/2409227145845560)).
 
 ---
 ## Organização interna 🗂️
@@ -29,7 +29,7 @@ Cada um desses seis subgrupos possui **uma ou duas responsáveis**, que são enc
 
     Tutoriais é dirigente de estudar internamente assuntos relacionados a Python. **A proposta é promover encontros e aprofundar em tópicos de interesse comum.** Esses tópicos podem ser também temas que gerem empoderamento, como por exemplo, oratória, que é uma habilidade necessária para apresentação.    
 
-    Ao longo dos anos, as principais atividades do grupo Tutoriais têm sido python básico, intermediário, grupos de estudo  e  Coding Dojos.
+    Ao longo dos anos, as principais atividades do grupo Tutoriais têm sido python básico, intermediário, nivelamento dos novos membros, grupos de estudo  e  Coding Dojos.
 
     ![](https://i.imgur.com/zaUvnXi.jpg)
 *Trainee de Python para as novas membras. São Carlos, 2019.*
