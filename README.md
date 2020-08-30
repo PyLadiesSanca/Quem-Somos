@@ -10,17 +10,17 @@ O PyLadies também tem como objetivo ser uma **comunidade de apoio e um ambiente
 ![](https://i.imgur.com/zuZx25K.png)
 
 
-O **PyLadies São Carlos** é um grupo local da comunidade PyLadies na cidade de São Carlos em São Paulo, que foi oficializado no dia 15 de novembro de 2014. Suas cofundadoras, Juliana Karoline e Jéssica Caroline, se interessaram em criar uma comunidade de mulheres na computação após assistirem uma palestra sobre Python do Fernando Masaori na Semana de Computação da Ufscar de 2014. 
+O **PyLadies São Carlos** é um grupo local da comunidade PyLadies na cidade de São Carlos em São Paulo, que foi oficializado no dia 15 de novembro de 2014. Suas cofundadoras se interessaram em criar uma comunidade de mulheres na computação após assistirem à palestra do Professor Fernando Masanori na 5ª Semana de Computação da UFSCar, onde havia menção ao PyLadies Natal.
 
 Posteriormente, após encontros com outras alunas dos cursos de computação e exatas, estabeleceram um grupo de interessadas em fundar uma comunidade que tivesse o objetivo de incentivar a participação de mulheres na computação e também dispostas a aprenderem Python. Em seguida, entraram em contato com o grupo PyLadies Brasil.
 
 Por fim, o **PyLadies São Carlos** recebeu permissão do PyLadies Brasil para iniciar suas atividades, sendo o primeiro grupo do estado de São Paulo e da região Sudeste. 😁
 
-Deste então, o PyLadies São Carlos promove diversas atividads com o objetivo de aproximar as mulheres ao universo da computação, como minicursos, palestras, projetos ([Pyladies nas Escolas](https://g1.globo.com/sp/sao-carlos-regiao/noticia/2019/08/22/projeto-leva-universo-da-programacao-para-meninas-do-ensino-medio-em-sao-carlos.ghtml), [Diatech](https://www.facebook.com/PyLadiesSaoCarlos/photos/a.1926210530813893/1926213804146899?type=3&sfns=mo), entre outros), encontros ([BarDelas](https://www.facebook.com/PyLadiesSaoCarlos/posts/2409227145845560)).
+Deste então, o PyLadies São Carlos promove diversas atividades com o objetivo de aproximar as mulheres ao universo da computação, como minicursos, palestras, projetos ([Pyladies nas Escolas](https://g1.globo.com/sp/sao-carlos-regiao/noticia/2019/08/22/projeto-leva-universo-da-programacao-para-meninas-do-ensino-medio-em-sao-carlos.ghtml), [Diatech](https://www.facebook.com/PyLadiesSaoCarlos/photos/a.1926210530813893/1926213804146899?type=3&sfns=mo), entre outros), encontros ([BarDelas](https://www.facebook.com/PyLadiesSaoCarlos/posts/2409227145845560)).
 
 ---
 ## Organização interna 🗂️
-As atividades do PyLadies São Carlos são orientadas por seis subgrupos fundamentais: **Tutoriais**, **Minicursos**, **Palestras**, **Marketing**, **Recursos Humanos** e **Relações Externas**, que são responsáveis por nossas atividades de aprendizado, disseminação de conhecimento, apresentação ao público, promoção da organização, estruturação interna e contato com a comunidade. 
+As atividades do PyLadies São Carlos são orientadas por seis subgrupos fundamentais: **Tutoriais**, **Minicursos**, **Palestras**, **Marketing**, **Recursos Humanos** e **Relações Externas**, que são responsáveis por nossas atividades de aprendizado, disseminação de conhecimento, apresentação ao público, promoção da organização, estruturação interna e contato com a comunidade.
 
 
 Cada um desses seis subgrupos possui **uma ou duas responsáveis**, que são encarregadas de organizar reuniões, conhecer as atividades e o andamento do seu respectivo subgrupo, para que possam ser consultadas no caso de eventuais dúvidas. Esse cargo é rotativo, é esperado que cada responsável permaneça em sua função por um ano, e que outra membra assuma seu lugar depois desse período, além disso, não confere nenhum tipo de poder àquela que o detém, pois somos um **grupo horizontal**, em que todas podem expressar suas opiniões sobre as decisões. Consideramos que ser responsável por um subgrupo pode ser uma oportunidade para o crescimento pessoal, pois mesmo que não seja uma posição de poder, permite que aquela que a exerce vivencie uma posição de liderança, exige organização e mais contato com as membras sob sua responsabilidade.
@@ -28,7 +28,7 @@ Cada um desses seis subgrupos possui **uma ou duas responsáveis**, que são enc
 * ### Tutoriais 📖
 
     Tutoriais é dirigente de estudar internamente assuntos relacionados a Python. **A proposta é promover encontros e aprofundar em tópicos de interesse comum.** Esses tópicos podem ser também temas que gerem empoderamento, como por exemplo, oratória, que é uma habilidade necessária para apresentação.    
-    
+
     Ao longo dos anos, as principais atividades do grupo Tutoriais têm sido python básico, intermediário, grupos de estudo  e  Coding Dojos.
 
     ![](https://i.imgur.com/zaUvnXi.jpg)
@@ -39,7 +39,7 @@ Cada um desses seis subgrupos possui **uma ou duas responsáveis**, que são enc
 * ### Palestras 🗨️
 
     Palestras é responsável por **reunir dados, montar e apresentar palestras pelo PyLadies São Carlos**, de cunho social, tratando da participação e empoderamento feminino em áreas da computação, e sendo por si mesmas exemplos dessa participação, assim como também submetendo palestras técnicas a eventos e exercitando a liderança feminina dentro da comunidade Python, além de apresentar o Pyladies São Carlos para pessoas externas.
-       
+
     O grupo de Palestras tem papel fundamental em nosso projeto [PyLadies nas Escolas](https://g1.globo.com/sp/sao-carlos-regiao/noticia/2019/08/22/projeto-leva-universo-da-programacao-para-meninas-do-ensino-medio-em-sao-carlos.ghtml), que visa incentivar e inspirar alunas do Ensino Médio a seguirem áreas de computação, pois é esse grupo que organiza as palestras iniciais, ou seja, o primeiro contato do Pyladies São Carlos com as alunas.
 
     Para que as integrantes se sintam mais confiantes    ao falar em público e melhorem sua oratória, Palestras organiza um evento interno do subgrupo chamado `Pypeando`, onde as membras planejam apresentações sobre temas diversos.
@@ -51,8 +51,8 @@ Cada um desses seis subgrupos possui **uma ou duas responsáveis**, que são enc
 
 ---
 * ### Minicursos 👩‍💻
-    Minicursos é responsável por **oferecer minicursos à comunidade**, compartilhando o conhecimento acumulado pelo grupo. Durante as reuniões o grupo discute e decide o tema a ministrar ou atende a pedidos de parceria de organizações da comunidade. 
-    
+    Minicursos é responsável por **oferecer minicursos à comunidade**, compartilhando o conhecimento acumulado pelo grupo. Durante as reuniões o grupo discute e decide o tema a ministrar ou atende a pedidos de parceria de organizações da comunidade.
+
     É uma oportunidade também de crescimento pessoal de nossas próprias membras, que ganham muita confiança e experiência aos serem ministrantes ou monitoras destes minicursos.
 
     ![](https://i.imgur.com/ivSFcV9.jpg)
@@ -67,13 +67,13 @@ Cada um desses seis subgrupos possui **uma ou duas responsáveis**, que são enc
     Relações Externas **intermedia todas as atividades do PyLadies São Carlos que envolvem outras instituições, organizações ou empresas**. São as responsáveis por marcar e representar o PyLadies em reuniões com órgãos externos e fazer todas as transações necessárias, como, negociar patrocínio para coffees de minicursos abertos à comunidade, troca de capacitações técnicas com empresas, entre outros.
 
     ![](https://i.imgur.com/g6olfEt.jpg)
-*Participação do Pyladies São Carlos no [evento P&G Incompany](https://www.facebook.com/PyLadiesSaoCarlos/photos/a.2034377563330522/2034377806663831?type=3&sfns=mo), com talk de negócios e workshop de inovação,  em parceria com a Empower. São Paulo, 2019.*
+*Participação do PyLadies São Carlos no [evento P&G Incompany](https://www.facebook.com/PyLadiesSaoCarlos/photos/a.2034377563330522/2034377806663831?type=3&sfns=mo), com talk de negócios e workshop de inovação,  em parceria com a Empower. São Paulo, 2019.*
 
 ---
 
 * ### Recursos Humanos 👐
     Recursos Humanos é  **responsável por garantir um ambiente saudável e amigável** a todas as suas membras, entendendo a sua diversidade. É de responsabilidade da pasta organizar as reuniões gerais, integrações, eventos internos e acompanhar o bem estar das integrantes.
-    
+
     ![](https://i.imgur.com/gIR8Mm5.png)
 *Reunião Geral. São Carlos, 2019.*
 
@@ -81,7 +81,7 @@ Cada um desses seis subgrupos possui **uma ou duas responsáveis**, que são enc
 ---
 
 * ### Marketing 💻
-    Marketing é o subgrupo que tem o papel de zelar por toda a parte visual do PyLadies São Carlos. **É responsável por gerenciar as redes sociais, garantindo a visibilidade do grupo por meio da divulgação dos eventos e projetos, através da identidade visual criada.** 
+    Marketing é o subgrupo que tem o papel de zelar por toda a parte visual do PyLadies São Carlos. **É responsável por gerenciar as redes sociais, garantindo a visibilidade do grupo por meio da divulgação dos eventos e projetos, através da identidade visual criada.**
 
     Além do manejamento da divulgação online do grupo, é encarregado de criar os produtos que levam a logo do PyLadies São Carlos, sejam as camisetas, adesivos ou canecas, comercializados internamente ou não.
     ![](https://i.imgur.com/xIK3nz8.jpg)
@@ -94,8 +94,8 @@ Cada um desses seis subgrupos possui **uma ou duas responsáveis**, que são enc
 ---
 
 ## Pyladies Day 🤹‍♀️
-Os subgrupos que regem o funcionamento interno do Pyladies São Carlos foram assim definidos no **Pyladies Day de 2018**. **O Pyladies Day é uma assembleia interna onde todas as membras reúnem-se para revisar projetos e eventos do ano que se passou a fim de concluir pontos positivos e pontos a melhorar**, além de planejar as metas futuras e reavaliar a estrutura  e a dinâmica dos subgrupos. O evento acontece, geralmente, em agosto de cada ano.
+Os subgrupos que regem o funcionamento interno do PyLadies São Carlos foram assim definidos no **PyLadies Day de 2018**. **O PyLadies Day é uma assembleia interna onde todas as membras reúnem-se para revisar projetos e eventos do ano que se passou a fim de concluir pontos positivos e pontos a melhorar**, além de planejar as metas futuras e reavaliar a estrutura  e a dinâmica dos subgrupos. O evento acontece, geralmente, em agosto de cada ano.
 
 
 ![](https://i.imgur.com/NN6iqFi.jpg)
-*Membros do Pyladies São Carlos participando do Pyladies Day. São Carlos, 2019.*
+*Membros do PyLadies São Carlos participando do PyLadies Day. São Carlos, 2019.*
