@@ -28,6 +28,7 @@ Através de uma parceria com a [Empower](https://empower.vision/), participamos 
 Também fomos convidadas ao evento **Tech Women da Movile,** focado em trazer mais mulheres para a computação.
 
 ![](https://i.imgur.com/TirdX5G.png)
+
 *Tech Women da Movile. Campinas, 2019.*
 
 
