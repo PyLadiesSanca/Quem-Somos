@@ -30,7 +30,6 @@ Também fomos convidadas ao evento **Tech Women da Movile,** focado em trazer ma
 ![](https://i.imgur.com/TirdX5G.png)
 *Tech Women da Movile. Campinas, 2019.*
 
-Estamos animadas com as parcerias que virão.
 
 ## Se interessou em estabelecer uma parceria? 
 
@@ -42,23 +41,32 @@ Parcerias são extremamente importantes para que os objetivos do PyLadies São C
 
 **O que podemos ajudar:**
 
-* **Cursos:** Introduçao à programação para iniciantes, Python básico, Python Intermediário, introdução a documentação, entre outros.
+* **Cursos:** 
+     Introduçao à programação para iniciantes, Python básico, Python Intermediário, introdução a documentação, entre outros.
 
-* **Palestras:** Vida após o ensino médio (geralmente ministrada para alunos que ainda estão na escola), Por que somos PyLadies e não 'ladies' de outra linguagem?, Mulheres na Computação, Mulheres e o Mercado da Computação: Desafios e Iniciativas, Como meninas podem se proteger em ambientes virtuais, entre outras. ![](https://i.imgur.com/jjWrF1F.png)
-*Palestra Mulheres na Computação, Mulheres e o Mercado da Computação: Desafios e Iniciativas ministrada na UFV. Rio Parnaíba, 2019.*
+* **Palestras:** 
+     Vida após o ensino médio (geralmente ministrada para alunos que ainda estão na escola), Por que somos PyLadies e não 'ladies' de outra linguagem?, Mulheres na Computação, Mulheres e o Mercado da Computação: Desafios e Iniciativas, Como meninas podem se proteger em ambientes virtuais, entre outras. 
+     
+     ![](https://i.imgur.com/jjWrF1F.png)
+     
+     *Palestra Mulheres na Computação, Mulheres e o Mercado da Computação: Desafios e Iniciativas ministrada na UFV. Rio Parnaíba, 2019.*
 
 
 > 
-* **Tutorial Django Girls:** um tutorial mundialmente conhecido por ensinar python web para pessoas sem nenhum contato prévio com computação, desenvolvido pela organização Django Girls.
+* **Tutorial Django Girls:** 
+     Um tutorial mundialmente conhecido por ensinar python web para pessoas sem nenhum contato prévio com computação, desenvolvido pela organização Django Girls.
+     ![](https://i.imgur.com/CUVPsai.png)
+     
+     *Tutorial Django Girls ministrado na Universidade de São Paulo(USP).São Carlos, 2018.*
 
-![](https://i.imgur.com/CUVPsai.png)
-*Tutorial Django Girls ministrado na Universidade de São Paulo(USP).São Carlos, 2018.*
+* **Divulgação em redes sociais:** 
+     As redes sociais do Pyladies são Instagram e Facebook, ambas ativas e conectadas com diversas mulheres e grupos atuantes nas comunidades tecnológicas. Possuímos um grupo de marketing que se importa com nossa identidade visual e com a mensagem informativa que passamos no mundo digital.
 
-* **Divulgação em redes sociais:** As redes sociais do Pyladies são Instagram e Facebook, ambas ativas e conectadas com diversas mulheres e grupos atuantes nas comunidades tecnológicas. Possuímos um grupo de marketing que se importa com nossa identidade visual e com a mensagem informativa que passamos no mundo digital.
+* **Criação de eventos para a comunidade:**
+     É possível a participação de empresas ou organizações na criação de nossos eventos para a comunidade, de forma a ajudar em coffee break, com o conteúdo que será ministrado ou com a obtenção do local para a realização do evento.
 
-* **Criação de eventos para a comunidade:** É possível a participação de empresas ou organizações na criação de nossos eventos para a comunidade, de forma a ajudar em coffee break, com o conteúdo que será ministrado ou com a obtenção do local para a realização do evento.
-
-* **Participação em eventos**: estar presente nos eventos da comunidade é muito importante para nós, além de ministrar palestras e minicursos, podemos participar de atividades gerais da programação.
+* **Participação em eventos**: 
+     Estar presente nos eventos da comunidade é muito importante para nós, além de ministrar palestras e minicursos, podemos participar de atividades gerais da programação.
 
 ## Requisitos 
 **Nosso grupo não tem fins lucrativos e é composto por membras voluntárias que dedicam seu tempo a ajudar a comunidade de Python, então pedimos que a organização auxilie da melhor forma possivel a nossa atividade durante o evento**, dando atenção e suporte; viabilizando recursos para  o transporte; alimentação, se necessário; certificado de horas para as membras. Estamos cientes que para algumas organizações sem fins lucrativos alguns recursos não são viavéis, entrem em contato e podemos pensar juntas como esse apoio funcionará. :handshake: 
